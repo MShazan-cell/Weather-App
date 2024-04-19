@@ -1,3 +1,7 @@
+body{
+  background: url(bg1.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
 #heading{
     text-align: center;
 }
@@ -52,7 +56,6 @@
 }
 #topheading{
   text-align: center;
-  
 }
 #about1{
   margin-top: 3%;
